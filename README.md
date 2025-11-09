@@ -1,6 +1,6 @@
 ## Hello, I'm Guilherme Fagundes 👋
 
-I'm currently studying **Systems Analysis and Development** at FATEC, with a focus on software development and backend systems.
+I'm currently studying **Systems Analysis and Development** at FATEC Guaratinguetá, with a focus on software development and backend systems.
 
 <hr>
 
